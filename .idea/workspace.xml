@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e4c1356-d61c-48d0-8577-1bf5111b14d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/libraries/junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/TimingTests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/Timings data.numbers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/out/production/TimingTests/com/example/timingtests/Duplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/out/production/TimingTests/com/example/timingtests/TimingTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/out/test/TimingTests/com/example/timingtests/DuplicatesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/TimingTests/src/com/example/timingtests/TimingTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/creatingAlgorithms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectsWk9/creatingAlgorithms/src/com/example/creatingalgorithms/CreatingAlgorithms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreatingAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CreatingAlgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/creatingalgorithms/CreatingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/creatingalgorithms/Duplicates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,27 +52,52 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="247" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="247" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/creatingalgorithms/CreatingAlgorithms.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/creatingalgorithms/Duplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="17" selection-start-column="17" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Test/com/example/creatingalgorithms/DuplicatesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -101,16 +108,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/example/creatingalgorithms/CreatingAlgorithms.java" />
+        <option value="$PROJECT_DIR$/Test/com/example/creatingalgorithms/CreatingAlgorithmsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/creatingalgorithms/Duplicates.java" />
+        <option value="$PROJECT_DIR$/Test/com/example/creatingalgorithms/DuplicatesTest.java" />
       </list>
     </option>
   </component>
@@ -141,6 +153,28 @@
               <item name="CreatingAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="CreatingAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CreatingAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatingAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatingAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatingAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingalgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatingAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatingAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatingAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatingAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="creatingalgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,12 +183,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541514818913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541518705793" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.creatingalgorithms" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,6 +220,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="DuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreatingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.creatingalgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.creatingalgorithms" />
+      <option name="MAIN_CLASS_NAME" value="com.example.creatingalgorithms.DuplicatesTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DuplicatesTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,17 +252,18 @@
       <option name="presentableId" value="Default" />
       <updated>1541514584809</updated>
       <workItem from="1541514586171" duration="227000" />
-      <workItem from="1541514942004" duration="436000" />
+      <workItem from="1541514942004" duration="2587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663000" />
+    <option name="totallyTimeSpent" value="2814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,7 +278,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -224,14 +298,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/creatingalgorithms/CreatingAlgorithms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -242,12 +315,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/creatingalgorithms/Duplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/example/creatingalgorithms/DuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CreatingAlgorithms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
