@@ -3,6 +3,9 @@ package com.example.creatingalgorithms;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import java.util.Arrays;
+
 import static org.hamcrest.CoreMatchers.*;
 
 public class DuplicatesTest {
@@ -17,19 +20,19 @@ public class DuplicatesTest {
     @Test
     public void testIntForBool() {
         int[] myArr = {1, 5, 5};
-        Assert.assertThat(newDupe.isDupe(myArr), is(equalTo(true)));
+        Assert.assertThat(newDupe.isDupe(myArr), is(Arrays.asList(5)));
     }
 
-/*
-public void testStringForBool() {
-String[] myArr = {"Hello", "Amy", "Hello"};
-Assert.assertThat(newDupe.isDupe(myArr), is(equalTo(true)));
-}
-*/
+//    @Test
+//    public void testStringForBool() {
+//    String[] myArr = {"Hello", "Amy", "Hello"};
+//    Assert.assertThat(newDupe.isDupe(myArr), is(Arrays.asList("Hello")));
+//    }
+
     @Test
     public void testIntForFalse() {
         int[] myArr = {1, 2, 3};
-        Assert.assertThat(newDupe.isDupe(myArr), is(equalTo(false)));
+        Assert.assertThat(newDupe.isDupe(myArr), is(Arrays.asList()));
     }
 
 /*

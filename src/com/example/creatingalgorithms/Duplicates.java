@@ -8,8 +8,8 @@ public class Duplicates {
 
     }
 
-    public Boolean isDupe(int[] yourList) {
-//        ArrayList<String> dupedItems = new ArrayList<>();
+    public ArrayList<?> isDupe(int[] yourList) {
+        ArrayList<Integer> dupedItems = new ArrayList<>();
         int wordIndex = 0;
         int arrLength = yourList.length;
 
@@ -18,14 +18,13 @@ public class Duplicates {
             for (int i = 1; i < arrLength; i++) {
                 int nextWord = wordIndex+1;
                 if (yourList[wordIndex] == yourList[nextWord]) {
-//                    dupedItems.add(yourList[wordIndex]);
-                    return true;
+                    dupedItems.add(yourList[wordIndex]);
                 }
             }
             wordIndex++;
             arrLength -= 1;
         }
-        return false;
+        return dupedItems;
     }
 }
 
